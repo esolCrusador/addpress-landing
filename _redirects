@@ -1,0 +1,2 @@
+# Netlify / compatible static hosts: consolidate legacy host to preferred origin.
+https://landing.addprocess.pro/*  https://addprocess.pro/:splat  301!
